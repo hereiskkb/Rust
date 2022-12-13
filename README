@@ -1,2 +1,2 @@
-#Learning Rust
+# Learning Rust
 rust seems fun
